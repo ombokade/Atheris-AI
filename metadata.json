@@ -1,0 +1,8 @@
+{
+  "name": "Campus Voice AI",
+  "description": "TGPCET Campus Voice AI - Global Landing Experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
